@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Araiz Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F61D1&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+%26+AI+Developer;Next.js+%7C+React+%7C+TypeScript;AI+Integration+%26+Custom+Software;Building+intelligent+web+experiences+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F61D1&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%26+AI+Developer;Next.js+%7C+React+%7C+TypeScript;AI+Integration+%26+Custom+Software;Building+Intelligent+Web+Experiences" alt="Typing SVG" />
 </p>
 
 ---
