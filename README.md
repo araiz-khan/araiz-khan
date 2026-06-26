@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 About Me
+### About Me
 
 - Experienced **Full Stack Developer & AI Developer** specializing in Web & AI Development
 - I build AI-integrated apps and custom software solutions
