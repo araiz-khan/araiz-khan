@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Araiz Khan</h1>
+<h1 align="center">Hi there, I'm Araiz Khan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F61D1&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%26+AI+Developer;Next.js+%7C+React+%7C+TypeScript;AI+Integration+%26+Custom+Software;Building+Intelligent+Web+Experiences" alt="Typing SVG" />
@@ -8,16 +8,16 @@
 
 ### 💻 About Me
 
-- 🚀 Experienced **Full Stack Developer & AI Developer** specializing in Web & AI Development
-- 🤖 I build AI-integrated apps and custom software solutions
-- 🔭 I love crafting responsive, dynamic, and interactive UIs with Next.js & React
-- ⚡ Passionate about clean code and bringing pixel-perfect designs to life
-- 🌐 Portfolio: [www.araiz.dev](https://www.araiz.dev)
-- 📫 Reach me at: [araizkhaan@gmail.com](mailto:araizkhaan@gmail.com)
+- Experienced **Full Stack Developer & AI Developer** specializing in Web & AI Development
+- I build AI-integrated apps and custom software solutions
+- I love crafting responsive, dynamic, and interactive UIs with Next.js & React
+- Passionate about clean code and bringing pixel-perfect designs to life
+- Portfolio: [www.araiz.dev](https://www.araiz.dev)
+- Reach me at: [araizkhaan@gmail.com](mailto:araizkhaan@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,ts,tailwindcss,nodejs,python,gemini" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, Python, Gemini / LLMs" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=araiz-khan&show_icons=true&theme=radical" height="160" />
@@ -42,13 +42,13 @@
 
 ---
 
-### 🎯 Featured
+### Featured
 
 - 🌐 [My Portfolio](https://www.araiz.dev) – Showcasing my Next.js, React, Android, and AI-powered projects
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/araiz-khan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
