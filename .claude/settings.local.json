@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:www.araiz.dev)",
-      "WebFetch(domain:www.linkedin.com)"
-    ]
-  }
-}
