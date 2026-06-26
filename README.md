@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python" />
-  <a href="#"><img src="https://img.shields.io/badge/LLM-412991?logo=openai&logoColor=white&style=flat-square&labelColor=412991" height="48" alt="LLM / AI" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LLM-1a1b27?logo=googlegemini&logoColor=8E75F8&style=for-the-badge" height="48" alt="LLM / AI" /></a>
 </p>
 
 <p align="center">
