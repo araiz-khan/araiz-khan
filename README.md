@@ -20,8 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python" />
-  <a href="#"><img src="https://img.shields.io/badge/%20-1a1b27?logo=googlegemini&logoColor=8E75F8&style=for-the-badge" height="48" alt="LLM / AI" /></a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,ts,tailwindcss,nodejs,python,gemini" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, Python, Gemini / LLMs" />
 </p>
 
 <p align="center">
